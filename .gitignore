@@ -1,0 +1,21 @@
+# General
+
+.DS_Store
+*~
+*/bin
+**/**/**/**/*/Debug/*
+
+# Eclipse
+
+*.metadata
+*.plugins
+*.recommenders
+*.project
+*.classpath
+*.settings
+*.class
+*.cproject
+
+# Additional formats
+
+*.pdf
